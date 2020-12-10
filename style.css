@@ -1,0 +1,14 @@
+body {
+    width: 60%;
+    padding: 0 20%;
+    text-align: center;
+    font-family: sans-serif;
+    }
+    
+    #chart {
+    height:70vh;
+    }
+    
+    .container {
+    text-align: center;
+    }
